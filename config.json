@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "name": "cwp35",
+    "user": "root",
+    "password":
+      "root",
+    "dialect": "mysql",
+    "dialectOptions": {
+        "ssl":  false
+      }
+  }
+}
